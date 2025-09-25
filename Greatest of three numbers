@@ -1,0 +1,7 @@
+a,b,c=map(int,input("enter 3 numbers:").split())
+if a>=b:
+    print("a is grater",a)
+elif b>=c:
+    print("b is grater",b)
+else:
+    print("c is grater",c)
