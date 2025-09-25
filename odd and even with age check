@@ -1,0 +1,6 @@
+n=int(input())
+if n%2==0:
+    print(f"{n}is a even number")#print("even")
+else:
+    print(f"{n}is an odd number")#print("odd")
+age=int(input())
