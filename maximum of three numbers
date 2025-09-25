@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+if a>=b:
+    print("a is grater number")
+elif b>=c:
+    print("b is grater number")
+else:
+    print("c is grater number")
